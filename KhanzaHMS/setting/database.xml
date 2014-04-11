@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>MyKlinik</comment>
+<entry key="HOST">localhost</entry>
+<entry key="DATABASE">khanza_hms</entry>
+<entry key="PORT">3306</entry>
+<entry key="USER">root</entry>
+<entry key="PAS"></entry>
+</properties>
+
